@@ -1,0 +1,36 @@
+2022-06-27 14:44:59,303 lowermodule - INFO:this file has 1 words
+2022-06-27 14:44:59,305 lowermodule - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
+2022-06-27 14:48:51,502 lowermodule word_count - INFO:this file has 1 words
+2022-06-27 14:48:51,503 lowermodule word_count - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
+2022-06-27 14:49:31,331 lowermodule word_count() - INFO:this file has 1 words
+2022-06-27 14:49:31,331 lowermodule word_count() - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
+2022-06-27 14:50:57,756 lowermodule->word_count() - INFO:this file has 1 words
+2022-06-27 14:50:57,756 lowermodule->word_count() - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
+2022-06-27 14:52:05,328 lowermodule word_count() - INFO:this file has 1 words
+2022-06-27 14:52:05,328 lowermodule word_count() - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
+2022-06-28 11:29:51,392 lowermodule word_count() - INFO:this file has 1 words
+2022-06-28 11:29:51,393 lowermodule word_count() - ERROR:uncaught exception: Traceback (most recent call last):
+  File "C:\Users\orestis\Desktop\Logging-test\lowermodule.py", line 17, in word_count
+    f.write("this file has %d words", final_word_count)
+TypeError: write() takes exactly one argument (2 given)
+
